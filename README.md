@@ -75,12 +75,6 @@ O projeto abrirá no navegador, geralmente no endereço:
 
 ---
 
-## 🎨 Captura de Tela
-
-![Caixa Eletrônico Preview](screenshot.png)
-
----
-
 ## 🔮 Melhorias Futuras
 
 🔹 Adicionar **limite de saque diário**  
